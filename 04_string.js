@@ -32,7 +32,7 @@ console.log(replaceDemo.toUpperCase());
 console.log(replaceDemo.toLowerCase());
 
 console.log("==============trim()===============");
-var greet = "    Good Morning bro and sis            ";
+var greet = "   Good Morning bro and sis";
 console.log(greet.length);
 var trimResult =  greet.trim();
 console.log(trimResult.length);
